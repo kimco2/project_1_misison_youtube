@@ -1,14 +1,50 @@
-# project_1_misison_youtube
+# project_1_mission_youtube 
 
-Project Title:
-
-You Tube Trending Videos In GB in 2017-2018
 Team members:
 Shweta Jain
 Mohsen Farrokhrouz
 Kim Coleman
 Ufuoma Atakere
 Sandra Botica
+
+Our purpose is to inform Content Creators how to optimise their videos based on those that are trending.
+
+YouTube Trending Videos US 2017-2018 Dataset from Kaggle
+
+Data exploration and Cleanup involved:
+    Reference to jupyter notebook title
+
+
+Analysis involved exploring these questions.
+1. Which categories trend most often?
+2. What types of videos are trending multiple times?
+3. Does the day, time, month a video is published impact on whether it trends?
+4. Are trending videos a certain duration?
+5. Is there any relationship between trending videos and likes/dislikes, views, comments, and tags?
+
+The implications of our findings include:
+
+1. Which categories trend most often?                                                       
+        See US_youtube_categories.ipynb
+        Using the cleaned_us_data.csv generated an array of the unique category IDs.
+        Used the {}US_category_id.json to identify the name of each category ID.
+        Added a column to cleaned_us_data.csv with the category name associated with each ID.
+        
+        
+3. Does the day, time, month a video is published impact on whether it trends?
+        See US_youtube_release_time_day.ipynb
+        See Objective 3 copy.txt for a description of findings.
+        See <ImagesObj3> folder for summary statistic tables and visualisations.
+        
+        Analysis description 
+        Reference to jupyter notebook title
+        Numerical summary (summary statistics)
+        Visualisations
+        Conclusions
+
+
+
+
 
 Project Description/Outline
 - Analysing You Tube daily trending videos over 12 months (2017-2018)
