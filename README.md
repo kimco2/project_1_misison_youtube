@@ -29,13 +29,22 @@ The implications of our findings include:
         Using the cleaned_us_data.csv generated an array of the unique category IDs.
         Used the {}US_category_id.json to identify the name of each category ID.
         Added a column to cleaned_us_data.csv with the category name associated with each ID.
-        
+        unique_us_cleaning_dat.ipynb
+
+2. What types of videos are trending multiple times?
+        US_cleaning_categories_.ipynb
         
 3. Does the day, time, month a video is published impact on whether it trends?
         See US_youtube_release_time_day.ipynb
         See Objective 3 copy.txt for a description of findings.
         See <ImagesObj3> folder for summary statistic tables and visualisations.
+ 
+4. Are trending videos a certain duration?
+        video_duration_data.ipynb
         
+5. Is there any relationship between trending videos and likes/dislikes, views, comments, and tags?
+        
+
         Analysis description 
         Reference to jupyter notebook title
         Numerical summary (summary statistics)
