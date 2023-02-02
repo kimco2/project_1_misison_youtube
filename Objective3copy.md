@@ -41,7 +41,7 @@ Figure 1 Publish Hour (Fig1PublishTimeSummaryStatistics.csv)
 Plots the 6347 unique videos and the hour that they were published. 
 Most videos were published between 1-11pm (13-23).
 The highest number of videos published at 4pm (16).
-Time of Day: 83.03% 1pm-12am (13-23), 32.87% 12am-1pm (0-13)
+Time of Day: 67.13% 1pm-12am (13-23), 32.87% 12am-1pm (0-13)
 
 Figure 2 Publish Day (Fig2PublishDaySummaryStatistics.csv)
 Plots the 6347 unique videos and the day of the week that they were published.
