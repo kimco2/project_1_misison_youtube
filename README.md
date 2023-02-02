@@ -42,7 +42,7 @@ Analysis involved exploring these 5 questions.
 
 
 The implications of our findings for each of the 5 questions include:
-        see Datawriteup
+        See writeup.md
 
 Question 1.     Publish videos in the entertainment or music categories.
                 These categories have a the greatest number of trending videos.
