@@ -1,4 +1,5 @@
-Objective 3
+Objective 3 
+(Sandra with Kim assisting)
 
 Keep these US holiday dates in mind.
 August 18 School starts, Dec 23-Jan 3 Christmas Break, Mar 13-17 Spring Break, Summer Break May 24-Aug 16
@@ -9,15 +10,28 @@ Explore the relationship between video publishing and length of days trending:
     time of the day (i.e. 1am, 4pm) 
     length of video (i.e. 1:30, 10:10)
 
+
 There are 6347 unique videos in the US You tube csv file.
 129 Unique videos trended for 20-30 days.
 6218 trended for less than 20 days (1077 10-19 days, 4434 1-9 days, 707 1 day).
 
+
         For the Hour of publish, needed to convert datetime from column titled "publish_time_formatted".
         Added columns to dataFrame for hour and minutes of publishing time.
 
-        For the length (duration) of videos see use of YouTube API
+
+        For the length (duration) of videos used a YouTube API
         See File Youtube.ipynb
+        Also involved converting PT10M20S into an integer (seconds).
+        -Videos that trended the longest (Top 19 - removed outlier from Top 20) Mode = 231 seconds long 
+            (Fig14BoxplotDurationTop20.png)
+            (Fig15LineGraphDurationTop20.png)
+            (Fig16DurationTop20.csv)
+            (Fig17DurationTop19.csv)
+            (Fig18BoxplotDurationTop19.png)
+            (Fig19LineGraphDurationTop19.png)
+        -For all unique videos (only 5798) Mode = 283 seconds long 
+            (Fig20UniqueVideosDuration.csv)
 
 
 
@@ -74,12 +88,19 @@ Listed in brackets is where categories were ranked in the 129 published and tren
 
 
 
-Fig11 (Linked to Figures 1 and 8) (Fig11PublishHour.png)
+Figure 11 (Linked to Figures 1 and 8) (Fig11PublishHour.png)
 Plots hour of publish comparing all unique videos (6347) to 129 videos that trended for 20 days or longer.
 
 
 
-Figures 5-9 and charts are an analysis of publishing day/month/time for 20 videos that had the longest days trending.
+The following 2 plots were comparing the views, followed likes over the duration of days that the seconds highest trending (in days). Just to get a feel for the data.
+Figure 12 (Fig12SecondLongestTrendingVideoViews.png)
+Figure 13 (Fig13SecondLongestTrendingVideoLikes.png)
+
+
+
+
+Figures 5-9 and charts are an analysis of publishing day/month/time for 20 videos that had the longest days trending. This was what data I used originally to compare to the total data base, then decided to determine how many videos published for X amount of days, as described at the top of the page and thought I'd present findings based on the 129 that trended for 20 days or longer.
 
 Figure 5 (linked to Figure 1) Publish Hour (Fig5PublishHourSummaryStatistics.csv)
 Plots the Top 20 Videos and the Hour of the day published.
