@@ -1,8 +1,8 @@
 # Project_1_Mission_YouTube Writeup
 
 ## Project Overview
-* This project is looking at trending videos in the United States on YouTube for the period December 2017 to May 2018 (inclusive).
-* The datafile was found on Kaggle https://www.kaggle.com/datasets/datasnaek/youtube-new
+* This project looked at trending YouTube videos in the United States for an eight month period, from November 2017 to June 2018.
+* The datafile comes from Kaggle https://www.kaggle.com/datasets/datasnaek/youtube-new
 
 Below are the questions investigated and key findings for each.
 
@@ -14,6 +14,8 @@ Below are the questions investigated and key findings for each.
 * In total there were XXX unique videos that trended for more than one day.
 * Vidoes in the Entertainment and Music category trend for longer than videos in other categories
 
+
+
 ## Does the day, time. month a video is publsihed impact on whether it trends?
 Time, day and month a video is published increases the number of days a video trends.  
 Looking at the videos that trended, we saw a greater number trending that:
@@ -22,6 +24,10 @@ Looking at the videos that trended, we saw a greater number trending that:
 * Published during the months of November to February.
 
 What impact does the video duration have on it trending?
+
+![duration](https://drive.google.com/drive/folders/1aNOGivzc8ac2vK4EoZoATyq-Wv6rVd4r)
+
+![](../../duration%20-%20histogram%20of%20video%20duration.png)
 
 ## Are trending videos a certain duration?
 * Three quarters of trending videos have a duration of 9 minutes or less, with half having a duration of less than 5 minutes.
