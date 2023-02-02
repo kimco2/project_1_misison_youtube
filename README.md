@@ -35,7 +35,7 @@ Analysis involved exploring these 5 questions.
  
 4. Are trending videos a certain duration?
         See video_duration_data.ipynb for code and graphs
-        Graphs are also saved in the output folder
+        See <ImagesObj4> folder for visualisations.
           
 5. Is there any relationship between trending videos and likes/dislikes, views, comments, and tags?
         us_data_like.ipynb
@@ -67,3 +67,4 @@ Question 5.     Likes and views are related.
                 Tagification reduces dislikes.
                 If you want to reduce the number of dislikes use a greater number of tags on your video.
 
+  The full presentation can be viewed via this link https://docs.google.com/presentation/d/1g8Zez1SduSsBhCCOhyDryzRS-7NHFHT0/edit?usp=sharing&ouid=117521230680892718245&rtpof=true&sd=true
