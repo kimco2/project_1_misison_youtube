@@ -25,7 +25,11 @@ Looking at the videos that trended, we saw a greater number trending that:
 
 What impact does the video duration have on it trending?
 
-![duration](https://drive.google.com/drive/folders/1aNOGivzc8ac2vK4EoZoATyq-Wv6rVd4r)
+![duration](https://drive.google.com/file/d/1hixgZjHM3WNJ4tE0zm0o88Yml1gpLnGE/view)
+
+![duration](https://drive.google.com/file/d/1hixgZjHM3WNJ4tE0zm0o88Yml1gpLnGE/view?usp=share_link)
+
+![dur](https://drive.google.com/drive/folders/1aNOGivzc8ac2vK4EoZoATyq-Wv6rVd4r)
 
 ![](../../duration%20-%20histogram%20of%20video%20duration.png)
 
