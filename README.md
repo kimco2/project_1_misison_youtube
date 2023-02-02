@@ -12,7 +12,7 @@ Our purpose is to inform Content Creators how to optimise their videos based on 
 YouTube Trending Videos US 2017-2018 Dataset from Kaggle
 
 Data exploration and Cleanup involved:
-    US_cleaning.ipynb
+        US_cleaning.ipynb
 
 
 Analysis involved exploring these 5 questions.
