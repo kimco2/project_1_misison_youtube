@@ -40,7 +40,9 @@ The implications of our findings include:
         See <ImagesObj3> folder for summary statistic tables and visualisations.
  
 4. Are trending videos a certain duration?
-        video_duration_data.ipynb
+        See video_duration_data.ipynb for code and graphs
+        Graphs are also saved in the output folder
+    
         
 5. Is there any relationship between trending videos and likes/dislikes, views, comments, and tags?
         us_data_like.ipynb
