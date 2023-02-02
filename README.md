@@ -29,7 +29,7 @@ Analysis involved exploring these 5 questions.
         
 3. Does the month, day, time a video is published impact how long it trends?
         See US_youtube_release_time_day.ipynb
-        See Objective3 copy 2.md for a description of findings.
+        See Objective3 copy.md for a description of findings.
         See <ImagesObj3> folder for summary statistic tables and visualisations.
         See Youtube.ipynb for use of APi for duration of videos
  
