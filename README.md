@@ -12,7 +12,7 @@ Our purpose is to inform Content Creators how to optimise their videos based on 
 YouTube Trending Videos US 2017-2018 Dataset from Kaggle
 
 Data exploration and Cleanup involved:
-    US_cleaning_categories.ipynb
+    US_cleaning.ipynb
 
 
 Analysis involved exploring these 5 questions.
@@ -67,55 +67,3 @@ Question 5.     Likes and views are related.
                 Tagification reduces dislikes.
                 If you want to reduce the number of dislikes use a greater number of tags on your video.
 
-
-
-
-Project Description/Outline
-- Analysing You Tube daily trending videos over 12 months (2017-2018)
-- https://www.kaggle.com/datasets/datasnaek/youtube-new
-- Data Story
-- Insight: You Tube trends
-- Inform: Content Creators on how to optimise their views based on trending categories and use of tags.
--  Excite
-    
-Research Questions to Answer
-- Need to define what a trending video from the dataset means exactly
-    
-- Monthly trending categories.
-   #The trending channel for each category.
-   Movie vs Music
-   Explore APIs for trending videos e.g. based on length of videos, time of day, day of the month that it is released and see if it is linked.
-   How is the you tube channel monetised.
-   What caused the you tube channel to tag it trending on the trending date.
-   Does a video trend more than once across the selected period of time
-    
-- Comparison of most popular categories (describe) from publishing date to trending date per category to see how long it takes to trend.
-   
-- Which you tube channel has more views/likes/dislikes/comment-counts and correlate to see if any relationship.
-   What videos are only liked or disliked.
-   Do some categories get more likes/dislikes.
-   
-- Does a you tube channel tag number increase views/likes/comment_counts?
-   Does tagification impact on viewing.
-   Many to many relationship. Graph analysis.
-   
-   Link of category ID
-   
-   BONUS!
-   Compare 2 countries tags and trending channels
-
-Datasets to be used
-https://www.kaggle.com/datasets/datasnaek/youtube-new
-Archive/GBvideos.csv
-
-Rough Breakdown of Tasks
-tbc
-
-Milestones
-1 (19 Jan)
-   20 Jan - 7-8pm to share and further brainstorm.
-2 (23 Jan)  Check dataset, multiple same video, what to do. Understand categories. Agree on questions. Assign tasks.
-3 (24 Jan)
-4 (30 Jan)
-5 (31 Jan) Work on Presentation
-6 (2 Feb)
