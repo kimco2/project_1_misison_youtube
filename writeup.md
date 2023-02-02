@@ -9,12 +9,12 @@ Team members: Shweta Jain, Mohsen Farrokhrouz, Kim Coleman, Ufuoma Atakere, Sand
 The full presentation can be viewed via this link
 https://docs.google.com/presentation/d/1g8Zez1SduSsBhCCOhyDryzRS-7NHFHT0/edit?usp=sharing&ouid=117521230680892718245&rtpof=true&sd=true
 
-## Below are the questions we investigated and key findings for each.
+## Below are the questions we explored and key findings for each.
 
 ## 1 -What categories trend most often?
 * The top three categories with the greatest number of trending videos are Entertainment, Music and How to & Style.
 * Entertainment has a substantially higher number of trending videos than any other category, with double the number of trending videos compared to the next highest category Music.
-* Out of Top 5 trending videos based on views, 3 videos belong to “Music” categories and 2 videos belong to Entertainment categories.
+* Out of Top 5 trending videos based on views, 4 videos belong to “Music” categories and 1 videos belong to Entertainment categories.
 * Out of Top 5 trending videos for the longest time, the video title 'Selena Gomez - Back To You (Lyric Video)' with category 'Film & Animation’ topped the list.
 
 
@@ -29,13 +29,13 @@ https://docs.google.com/presentation/d/1g8Zez1SduSsBhCCOhyDryzRS-7NHFHT0/edit?us
 
 ## 4 - Are trending videos a certain duration?
 * Three quarters of trending videos are 9 minutes or less, with half having a duration of less than 5 minutes.
-* Additionally, videos that trended for a longer period were under 4 minutes.
+* Additionally, videos that trended for a longer period were under 4 minutes. 
 
 ## 5 - Is there any relationship between trending videos and likes/dislikes, views, comments, and tags?
-Highly viewed categories have a higher number of likes, and the relationship
-between the two is strong.
-* The more tags a video has the fewer the number of dislikes.  Additionally, the more tags a video has the less comments it receives.
-* Be cautious if publishing videos in controversial areas (such as Non-Profits & Activism and News & Politics) as these categories are prone to dislikes.
+* Highly viewed categories have a higher number of likes, and the relationship
+between the two categories (Entertainment & Music) is strong. There was no relationship between the number of views and likes/dislikes for the other video categories. 
+* The more tags a video has the fewer the number of dislikes.  Additionally, the more tags a video has the less comments it receives. For highly viewed videos, the number of tags does not have any relationship on the number of views.
+* According to the correlations observed between the views and dislikes, it is recommended to the content producer to be cautious if publishing videos in controversial areas (such as Non-Profits & Activism and News & Politics) as these categories are prone to dislikes. 
 
 ## How Content Creators can optomise thier videos based on these findings...
 * Publish videos in the entertainment or music categories - These categories have a the greatest number of trending videos.
